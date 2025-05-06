@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "679714043272",
+    "project_id": "test-17cd5",
+    "storage_bucket": "test-17cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679714043272:android:348dc5f15eb18ce683b63d",
+        "android_client_info": {
+          "package_name": "com.example.firecrud_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hLzt2zANSsiEJQq6mpRaOS3MYOznz-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679714043272:android:b38abc5e465d613183b63d",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4hLzt2zANSsiEJQq6mpRaOS3MYOznz-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
